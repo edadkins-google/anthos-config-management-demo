@@ -4,3 +4,4 @@ metadata:
   name: cnrm-system
   labels:
     admission.gatekeeper.sh/ignore: "true"
+    cost-center: cnrm.anthos-config-management-demo.com
